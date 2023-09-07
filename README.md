@@ -1,2 +1,2 @@
-# Porringer-Pipx
-Porringer plugin for `pipx`
+# Porringer-Winget
+Porringer plugin for `winget`
